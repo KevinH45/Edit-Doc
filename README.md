@@ -6,11 +6,6 @@ SLINGSHOT Code Challenge #7
 
 We all know how to edit documents on Word. However, to date, there's no good open source implementation of a .docx editor in npm/javascript. Most solutions out there are paid -- the goal is to make something better and free for the world to use. 
 
-1️⃣ Create a mechanism to convert .docx to HTML. 
-2️⃣ Create the ability to load this HTML in a browser and make it editable for a user. 
-3️⃣ The editor should then be able to export this back to a .docx
-
-
 ## Solution
 
 I propose a web app that can be used to edit the contents of a .docx file in markdown, and be able to translate/export the markdown back into .docx or HTML. This will not only allow people to quickly transfer between document types, but allow people to change the document as well.
