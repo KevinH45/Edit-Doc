@@ -1,4 +1,3 @@
-from pydocx import PyDocX
 import markdownify, markdown, mammoth
 from html2docx import html2docx
 
